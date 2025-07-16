@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MySql.Data.MySqlClient;
-using PW3.Entidades;
+using TCC.Entidades;
 using System.Collections.Generic;
 
-namespace PW3.Controllers
+namespace TCC.Controllers
 {
     public class UsuariosController : Controller
     {

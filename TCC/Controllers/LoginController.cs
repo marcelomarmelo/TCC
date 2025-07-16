@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using PW3.Models;
+using TCC.Models;
 
-namespace PW3.Controllers
+namespace TCC.Controllers
 {
     public class LoginController : Controller
     {

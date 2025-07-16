@@ -1,4 +1,4 @@
-﻿namespace PW3.Entidades
+﻿namespace TCC.Entidades
 {
     public class UsuarioEntidade
     {

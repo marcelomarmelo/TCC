@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using PW3.Models;
+using TCC.Models;
 using System.Diagnostics;
 
-namespace PW3.Controllers
+namespace TCC.Controllers
 {
     public class HomeController : Controller
     {
